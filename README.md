@@ -49,7 +49,7 @@ It currently contains most of the DOM Core level 2 *read-only* APIs and includes
 Add this project as a dependency in your Package.swift file.
 
 ```
-.Package(url:"https://github.com/PerfectlySoft/Perfect-XML.git", majorVersion: 3)
+.package(url:"https://github.com/PerfectlySoft/Perfect-XML.git", majorVersion: 3)
 ```
 
 ## macOS Build Notes
